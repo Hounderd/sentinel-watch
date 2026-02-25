@@ -50,6 +50,5 @@ You can easily manage devices and settings directly through the SentinelWatch da
 
 SentinelWatch uses a host-networked Docker container for the Daemon to ensure perfectly accurate ping metrics, entirely bypassing Docker's virtual network latency. 
 
-## License
-
-MIT License
+##
+Created with ❤️ by [Hounderd](https://github.com/Hounderd).
