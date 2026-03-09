@@ -2,6 +2,8 @@
 
 SentinelWatch is a lightweight, self-hosted network monitoring solution that keeps an eye on your devices and alerts you when things go down. It features a Python-based daemon for continuous tracking, a fast FastAPI backend, and a modern React dashboard to visualize your network's health.
 
+![SentinelWatch screenshot](https://download.nodd.dev/sentinel-watch-screenshot.png)
+
 ## Features
 
 - **Continuous Ping Monitoring**: Tracks latency and uptime for all configured devices.
